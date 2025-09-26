@@ -1,2 +1,2 @@
 
-print('Wynn')
+print("wynn")
